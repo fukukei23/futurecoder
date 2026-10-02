@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/futurecoder/static/css/main.54881386.css",
-    "main.js": "/futurecoder/static/js/main.7ee82df0.js",
+    "main.js": "/futurecoder/static/js/main.d40615c0.js",
     "pyodide/pyodide.asm.wasm": "/futurecoder/pyodide/pyodide.asm.wasm",
     "static/media/python_core.tar.load_by_url": "/futurecoder/static/media/python_core.tar.7de7989a17d297908a99.load_by_url",
     "pyodide/python_stdlib.zip": "/futurecoder/pyodide/python_stdlib.zip",
@@ -14,10 +14,10 @@
     "pyodide/package.json": "/futurecoder/pyodide/package.json",
     "index.html": "/futurecoder/index.html",
     "main.54881386.css.map": "/futurecoder/static/css/main.54881386.css.map",
-    "main.7ee82df0.js.map": "/futurecoder/static/js/main.7ee82df0.js.map"
+    "main.d40615c0.js.map": "/futurecoder/static/js/main.d40615c0.js.map"
   },
   "entrypoints": [
     "static/css/main.54881386.css",
-    "static/js/main.7ee82df0.js"
+    "static/js/main.d40615c0.js"
   ]
 }
